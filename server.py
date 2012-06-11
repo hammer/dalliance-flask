@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, render_template
 import Pyplinkseq
 
 DEBUG = True
